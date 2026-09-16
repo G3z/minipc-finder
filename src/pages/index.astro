@@ -1,6 +1,6 @@
 ---
-import '../styles/theme.css';
-import CatalogFilter from '../islands/CatalogFilter';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CatalogApp from '../islands/CatalogApp';
 import catalog from '../data/catalog.json';
 ---
-<main><h1>Mini PC Finder</h1><p class="muted">Compare public Mini PC Guide USA data. Seller links are not affiliate links.</p><CatalogFilter client:load devices={catalog} /></main>
+<BaseLayout><CatalogApp client:only="preact" devices={catalog} /><noscript><section class="page-intro"><h1>Mini PC Finder</h1><p>Enable JavaScript to filter and compare. The complete catalog remains available below, sorted by score.</p></section><ol>{catalog.sort((a, b) => (b.scores.overall ?? -1) - (a.scores.overall ?? -1)).map(device => <li>{device.brand} {device.model} — {device.cpu.name ?? '—'} — score {device.scores.overall ?? '—'}</li>)}</ol></noscript></BaseLayout>

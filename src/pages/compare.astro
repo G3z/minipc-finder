@@ -1,0 +1,6 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CompareApp from '../islands/CompareApp';
+import catalog from '../data/catalog.json';
+---
+<BaseLayout title="Compare mini PCs"><div class="container"><CompareApp client:only="preact" devices={catalog} /></div></BaseLayout>

@@ -2,5 +2,5 @@ node_modules/
 dist/
 .astro/
 .cache/
-src/data/*.json
+src/data/**/*.json
 !src/data/.gitkeep

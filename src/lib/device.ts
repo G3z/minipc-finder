@@ -23,4 +23,12 @@ export type Device = {
   source: { sheet: string; row: number };
 };
 
-export type CatalogDevice = Pick<Device, 'id' | 'model' | 'brand' | 'cpu' | 'gpu' | 'scores' | 'physical' | 'pricing' | 'ports' | 'releaseDate' | 'discontinued'>;
+export type CatalogDevice = Pick<Device, 'id' | 'model' | 'brand' | 'scores' | 'cpu' | 'gpu' | 'memory' | 'storage' | 'ports' | 'network' | 'power' | 'physical' | 'support' | 'releaseDate' | 'discontinued'> & {
+  pricing: Pick<Device['pricing'], 'barebone' | 'variants'>;
+  minPrice: number | null;
+};
+
+export type Facets = {
+  values: Record<string, { value: string | boolean; count: number }[]>;
+  ranges: Record<string, { min: number; max: number }>;
+};

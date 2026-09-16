@@ -1,0 +1,9 @@
+---
+import '../styles/theme.css';
+import ThemeToggle from '../islands/ThemeToggle';
+interface Props { title?: string; description?: string; }
+const { title = 'Mini PC Finder', description = 'Find and compare Mini PCs using public Mini PC Guide USA data.' } = Astro.props;
+const pageTitle = title === 'Mini PC Finder' ? title : `${title} · Mini PC Finder`;
+const currentPath = Astro.url.pathname.replace(import.meta.env.BASE_URL, '/') || '/';
+---
+<!doctype html><html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="description" content={description} /><meta name="theme-color" content="#f5f7f8" /><title>{pageTitle}</title><script is:inline>{`(() => { try { const saved = localStorage.getItem('theme'); const choice = ['light', 'dark', 'system'].includes(saved || '') ? saved : 'system'; const theme = choice === 'system' ? (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : choice; document.documentElement.dataset.theme = theme; document.documentElement.style.colorScheme = theme; } catch {} })()`}</script></head><body><a class="skip-link" href="#main-content">Skip to content</a><header class="site-header"><div class="header-inner"><a class="brand" href={import.meta.env.BASE_URL}><span class="brand-mark" aria-hidden="true">MP</span>Mini PC Finder</a><nav class="site-nav" aria-label="Main navigation"><a href={import.meta.env.BASE_URL} aria-current={currentPath === '/' ? 'page' : undefined}>Explore</a><a href={`${import.meta.env.BASE_URL}/compare/`}>Compare</a></nav><ThemeToggle client:load /></div></header><main id="main-content" class="page-shell"><slot /></main></body></html>
