@@ -19,8 +19,14 @@ describe('complete mappings', () => it('preserves zeroes, booleans and all filte
   expect(device.pricing.variants).toEqual([{ config: '8GB/256GB', usd: 199 }]);
 }));
 
+describe('price variants', () => it('ignores blank prices', () => {
+  const [device] = parseSheet('Model Name,Brand,8GB/256GB,16GB/512GB\nBox,Acme,,$199\n');
+  expect(device.pricing.variants).toEqual([{ config: '16GB/512GB', usd: 199 }]);
+}));
+
 describe('catalog facets', () => it('calculates minimum price and deterministic values/ranges', () => {
-  const catalog = toCatalog(parseSheet('Model Name,Brand,CPU,Estimated Barebone Cost,8GB/256GB,Vol L\nOne,Acme,N100,$299,$199,1\nTwo,Acme,N200,,$2,1\n'));
+  const catalog = toCatalog(parseSheet('Model Name,Brand,CPU,Estimated Barebone Cost,8GB/256GB,Vol L,Seller,No Affiliate Links\nOne,Acme,N100,$299,$199,1,Acme,https://example.com\nTwo,Acme,N200,,$2,1,,\n'));
   expect(catalog.map(device => device.minPrice)).toEqual([199, 2]);
+  expect(catalog[0].seller).toEqual({ name: 'Acme', url: 'https://example.com' });
   expect(buildFacets(catalog)).toMatchObject({ values: { brand: [{ value: 'Acme', count: 2 }] }, ranges: { minPrice: { min: 2, max: 199 }, 'physical.volumeL': { min: 1, max: 1 } } });
 }));

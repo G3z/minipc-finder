@@ -23,7 +23,7 @@ export type Device = {
   source: { sheet: string; row: number };
 };
 
-export type CatalogDevice = Pick<Device, 'id' | 'model' | 'brand' | 'scores' | 'cpu' | 'gpu' | 'memory' | 'storage' | 'ports' | 'network' | 'power' | 'physical' | 'support' | 'releaseDate' | 'discontinued'> & {
+export type CatalogDevice = Pick<Device, 'id' | 'model' | 'brand' | 'scores' | 'cpu' | 'gpu' | 'memory' | 'storage' | 'ports' | 'network' | 'power' | 'physical' | 'support' | 'seller' | 'releaseDate' | 'discontinued'> & {
   pricing: Pick<Device['pricing'], 'barebone' | 'variants'>;
   minPrice: number | null;
 };
