@@ -1,0 +1,168 @@
+{
+  "id": "fevm-fa780-7840hs-rdna3-780m",
+  "model": "FA780",
+  "brand": "FEVM",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 141.5,
+    "brand": 2,
+    "socket": 0,
+    "gen": 14,
+    "gpu": 13,
+    "volume": 15.8,
+    "ram": 10.6,
+    "drive": 9,
+    "port": 11,
+    "lan": 3,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "7840HS",
+    "class": "r7",
+    "gen": "Zen 4",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "RDNA3 780M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 5600,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 1,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 126,
+    "d2": 114,
+    "d3": 44,
+    "volumeL": 0.63,
+    "fan1Mm": null,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 320,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": null
+  },
+  "releaseDate": "26-Dec-2023",
+  "notes": "Feb 3 2024: $400 to $320.",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 1439
+  }
+}

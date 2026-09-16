@@ -1,0 +1,168 @@
+{
+  "id": "genmachine-mn5x-d7-7735hs-6800h-rdna2-680m",
+  "model": "MN5X / D7",
+  "brand": "GenMachine",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 125.4,
+    "brand": 3,
+    "socket": 0,
+    "gen": 13,
+    "gpu": 11,
+    "volume": 11,
+    "ram": 10.3,
+    "drive": 7,
+    "port": 2,
+    "lan": 4,
+    "seller": 3.13
+  },
+  "cpu": {
+    "name": "7735HS/6800H",
+    "class": "r7",
+    "gen": "Zen 3+",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 45
+  },
+  "gpu": {
+    "name": "RDNA2 680M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 1,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 1
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 130,
+    "d2": 130,
+    "d3": 54,
+    "volumeL": 0.91,
+    "fan1Mm": 100,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 308,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 308
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Aliexpress",
+    "url": null
+  },
+  "releaseDate": "14-Jul-2023",
+  "notes": "Oct 17: USB C power in supports USB C PD. USB C charging port is 19V. If this connects to another USB C Port it can destroy the computer, RGB Disco Lights",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 149
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "beelink-eq12-pro-n305-n305-iris-xe-32eu",
+  "model": "EQ12 Pro N305",
+  "brand": "Beelink",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 99.8,
+    "brand": 5.25,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 2,
+    "volume": 18.3,
+    "ram": 4.5,
+    "drive": 4.75,
+    "port": 0,
+    "lan": 6,
+    "seller": 5.5
+  },
+  "cpu": {
+    "name": "N305",
+    "class": "i3",
+    "gen": "12th",
+    "socket": "0",
+    "pCores": 0,
+    "threads": 8,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "Iris Xe 32EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 1,
+    "maxGb": 16,
+    "maxSpeedMts": 4800,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 1.25,
+    "maxNvme": 0.25,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 124,
+    "d2": 113,
+    "d3": 39,
+    "volumeL": 0.55,
+    "fan1Mm": 60,
+    "fan2Mm": 40
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 260,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 350
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "MinixPC",
+    "url": "https://minixpc.com/products/beelink-eq12-pro-intel-core-i3-n305-8-core-8-thread-ddr5-16-500gb?currency=USD&variant=43981994229994&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=bca8a06304a7&gad_source=1&gclid=CjwKCAjw8fu1BhBsEiwAwDrsjGvGb8ImTBAy_mmfbQbUn_7dRr7f5aSjs1BAqfAaEai3RMg7SL7uOhoC17EQAvD_BwE"
+  },
+  "releaseDate": null,
+  "notes": "Aug 16 2024: $147 to $260. April 9 2024: $105 to $137. Mar 7 2024: $280 to $105. Aug 9: (my mistake) pcie x1 instead of x4. 40mm fan cools RAM and SSD",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 747
+  }
+}

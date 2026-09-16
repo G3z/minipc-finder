@@ -1,0 +1,168 @@
+{
+  "id": "aoostar-mn68-am20-6800u-32gb-6800u-rdna2-680m",
+  "model": "MN68 / AM20 6800U 32GB",
+  "brand": "AOOSTAR",
+  "clonedFrom": "AceMagician",
+  "scores": {
+    "overall": null,
+    "brand": 4,
+    "socket": 0,
+    "gen": 13,
+    "gpu": 11,
+    "volume": 21.4,
+    "ram": 5.8,
+    "drive": 27,
+    "port": 5,
+    "lan": 6,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "6800U",
+    "class": "r7",
+    "gen": "Zen 3+",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "RDNA2 680M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 0,
+    "maxGb": 32,
+    "maxSpeedMts": 6400,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 3,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 108,
+    "d2": 108,
+    "d3": 40,
+    "volumeL": 0.47,
+    "fan1Mm": 55,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 280,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": "Feb 1 2024: Could not find in stock so disabling overall score. Wireless charging pad on top. QC concern for m.2 cooling is insufficient for gen 4 drives.",
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 151
+  }
+}

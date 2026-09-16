@@ -1,0 +1,168 @@
+{
+  "id": "geekom-discontinued-as6-7735hs-7735h-6800h-rdna2-680m",
+  "model": "Discontinued AS6 7735HS",
+  "brand": "Geekom",
+  "clonedFrom": "Asus",
+  "scores": {
+    "overall": null,
+    "brand": 6,
+    "socket": 0,
+    "gen": 13,
+    "gpu": 11,
+    "volume": 11.1,
+    "ram": 10.3,
+    "drive": 21,
+    "port": 16,
+    "lan": 3,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "7735H/6800H",
+    "class": "r7",
+    "gen": "Zen 3+",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 45
+  },
+  "gpu": {
+    "name": "RDNA2 680M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 130,
+    "d2": 120,
+    "d3": 58,
+    "volumeL": 0.9,
+    "fan1Mm": 80,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 1100,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/GEEKOM-AS6-Graphics-Computers-Bluetooth/dp/B0CF22SLYG/ref=sr_1_3?crid=2XV71BYN7LCXB&dib=eyJ2IjoiMSJ9.igonUKjlrY-lBRsnd34jOUQfClXi986Lbnlfe55leSVpSb8ujheyn9bkz2l3Kv_97qd4IKowtT5gKSSzVcGQsDdjinG8pdn0MO-ijHbKYS8nJfS3sfI5I1YqIv5hRtHHstHFZJl1qca4uvdJyCr-A8qVjcFWEUze-MFJdN1j9vU7dfjPP07nnecchMm-l1z2X2LDF5XK7r79pDGqI8C_A0n5j789SN7i2-L1T3v1fkw.Hz5n46Z-NPep3F4GXNb7_WKh7TJrVgfz5AMQLmmfK9c&dib_tag=se&keywords=geekom%2Bas6&qid=1714605410&sprefix=geekom%2Bas%2Caps%2C127&sr=8-3&th=1"
+  },
+  "releaseDate": "17-Oct-2023",
+  "notes": "May 1 2024: $450 to $1100. Mar 2 2024: $470 to $450 HDMI 2.1 requires configurable port installed by Asus, most PN53 will be sold with a displayport 1.4 port",
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 1537
+  }
+}

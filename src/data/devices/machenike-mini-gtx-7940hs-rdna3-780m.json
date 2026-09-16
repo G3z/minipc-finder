@@ -1,0 +1,168 @@
+{
+  "id": "machenike-mini-gtx-7940hs-rdna3-780m",
+  "model": "Mini GTX",
+  "brand": "Machenike",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 159.2,
+    "brand": 2,
+    "socket": 0,
+    "gen": 14,
+    "gpu": 13,
+    "volume": 12,
+    "ram": 10.6,
+    "drive": 18,
+    "port": 11,
+    "lan": 6,
+    "seller": 5.5
+  },
+  "cpu": {
+    "name": "7940HS",
+    "class": "r9",
+    "gen": "Zen 4",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 65
+  },
+  "gpu": {
+    "name": "RDNA3 780M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 5600,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": null,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 129,
+    "d2": 129,
+    "d3": 50,
+    "volumeL": 0.83,
+    "fan1Mm": 80,
+    "fan2Mm": 60
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 620,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 620
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "MiniXPC",
+    "url": "https://minixpc.com/products/machenike-mini-gtx-ryzen-high-performance-pc-commercial-office-gaming-desktop-mini-pc-r7-8845hs?pr_prod_strat=e5_desc&pr_rec_id=05d1cba11&pr_rec_pid=8332305727722&pr_ref_pid=8154175799530&pr_seq=uniform&variant=44558398062826"
+  },
+  "releaseDate": "17-Jun-2024",
+  "notes": "June 17 2024: It's funny reading the spelling mistakes",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2428
+  }
+}

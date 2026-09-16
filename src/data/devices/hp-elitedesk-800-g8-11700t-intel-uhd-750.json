@@ -1,0 +1,168 @@
+{
+  "id": "hp-elitedesk-800-g8-11700t-intel-uhd-750",
+  "model": "EliteDesk 800 G8",
+  "brand": "HP",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 0,
+    "brand": 6,
+    "socket": 2,
+    "gen": 11,
+    "gpu": 2,
+    "volume": 9.5,
+    "ram": 9.7,
+    "drive": 26,
+    "port": 11,
+    "lan": 4,
+    "seller": 5.5
+  },
+  "cpu": {
+    "name": "11700T",
+    "class": "i7",
+    "gen": "11th",
+    "socket": "LGA1200",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Intel UHD 750",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 3200,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 4,
+    "maxNvme": 3,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 1
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 177,
+    "d2": 175,
+    "d3": 34,
+    "volumeL": 1.05,
+    "fan1Mm": 80,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": null,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Ebay",
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": "2.5\" Sata needs special drive slot not normally included, Optional 2.5GBps NIC and 100W USB C PD input and thunderbolt 3",
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 1878
+  }
+}

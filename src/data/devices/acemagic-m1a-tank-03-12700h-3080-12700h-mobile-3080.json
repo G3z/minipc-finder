@@ -1,0 +1,168 @@
+{
+  "id": "acemagic-m1a-tank-03-12700h-3080-12700h-mobile-3080",
+  "model": "M1A Tank 03 12700H 3080",
+  "brand": "AceMagic",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 0,
+    "brand": 6,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 39,
+    "volume": 2.2,
+    "ram": 10.3,
+    "drive": 15,
+    "port": 5,
+    "lan": 6,
+    "seller": 6
+  },
+  "cpu": {
+    "name": "12700H",
+    "class": "i7",
+    "gen": "12th",
+    "socket": "0",
+    "pCores": 6,
+    "threads": 20,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Mobile 3080",
+    "discrete": true,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 175,
+    "d2": 160,
+    "d3": 159,
+    "volumeL": 4.45,
+    "fan1Mm": 100,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": null,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "AceMagic",
+    "url": null
+  },
+  "releaseDate": "20-Nov-2023",
+  "notes": "Custom GPU drivers. Feb 2 2024: Out of stock, last known price $1200. Dec 30: Possible malware on preinstalled OS. Please install your own OS. Oct 30: Toggle knob for silent, normal, and performance mode. 1x M.2 NVMe gen 3 x4  and 2x M.2 NVMe gen 3 x2",
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 20
+  }
+}

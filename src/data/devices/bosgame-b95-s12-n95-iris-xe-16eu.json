@@ -1,0 +1,168 @@
+{
+  "id": "bosgame-b95-s12-n95-iris-xe-16eu",
+  "model": "B95 / S12",
+  "brand": "Bosgame",
+  "clonedFrom": "Beelink",
+  "scores": {
+    "overall": 92.4,
+    "brand": 4,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 1.1,
+    "volume": 17.3,
+    "ram": 3.9,
+    "drive": 10,
+    "port": 0,
+    "lan": 1,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "N95",
+    "class": "Celeron",
+    "gen": "12th",
+    "socket": "0",
+    "pCores": 0,
+    "threads": 4,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "Iris Xe 16EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 1,
+    "maxGb": 16,
+    "maxSpeedMts": 3200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 1
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 126,
+    "d2": 112,
+    "d3": 41,
+    "volumeL": 0.58,
+    "fan1Mm": 60,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 65,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 135
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/BOSGAME-B95-Processor-Computers-4xUSB3-2/dp/B0C7GFW8PT/ref=sr_1_8?crid=3AHB2GWRRQT7F&dib=eyJ2IjoiMSJ9.kKfOXUHt1W3Y9y-O-Y_bE25dUPB8ewhy-lLr1XH8Khgwots5mIQRbp9Z01-BJ8JbdSGIZah07ufzghp7E-UgN_18GIiipWwgC9bEii2TyXN9ZxCW4nnNP6iU___WdJj4ae5CHuVx9G6XTFKvs8wmolkPqmzUZrGeHZ7ByWxck6Tn6zn9u2crsx-pn6LeQ8NytReMWzlrNtR4u_9HlFPEuHWVjBJBZCNnxN-Tqs4UTpE.RKEO5-ukUEgnpkan2IKlz820Fub6U4x4GULIph1o7O0&dib_tag=se&keywords=bosgame&qid=1714603027&sprefix=bosgame%2Caps%2C113&sr=8-8"
+  },
+  "releaseDate": null,
+  "notes": "Jun 28 2024: $100 to $55. May 1 2024: $65 to $100. Feb 6 2024: $90 to $65. Jun 18: $150 to $90",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 862
+  }
+}

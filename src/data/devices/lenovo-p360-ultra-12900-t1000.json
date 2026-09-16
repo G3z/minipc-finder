@@ -1,0 +1,168 @@
+{
+  "id": "lenovo-p360-ultra-12900-t1000",
+  "model": "P360 Ultra",
+  "brand": "Lenovo",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 180.3,
+    "brand": 5,
+    "socket": 3,
+    "gen": 12,
+    "gpu": 14,
+    "volume": 2.6,
+    "ram": 18.7,
+    "drive": 21,
+    "port": 10,
+    "lan": 0,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "12900",
+    "class": "i9",
+    "gen": "12th",
+    "socket": "LGA1700",
+    "pCores": 8,
+    "threads": 24,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "T1000",
+    "discrete": true,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 4,
+    "maxGb": 128,
+    "maxSpeedMts": 4800,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 8
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": null,
+      "g5": 0,
+      "g2_5": null,
+      "g1": null
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 223,
+    "d2": 202,
+    "d3": 86,
+    "volumeL": 3.87,
+    "fan1Mm": 90,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 1815,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": "Servethehome reported problems getting display from a dGPU and iGPU simultaneously",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2328
+  }
+}

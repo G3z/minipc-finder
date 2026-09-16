@@ -1,0 +1,168 @@
+{
+  "id": "beelink-ser9-hx370-rdna3-5-890m",
+  "model": "SER9",
+  "brand": "Beelink",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 176.9,
+    "brand": 5.25,
+    "socket": 0,
+    "gen": 15,
+    "gpu": 16,
+    "volume": 12.5,
+    "ram": 6.2,
+    "drive": 18,
+    "port": 14,
+    "lan": 3,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "HX370",
+    "class": "r9",
+    "gen": "Zen 5",
+    "socket": "0",
+    "pCores": 12,
+    "threads": 24,
+    "tdpW": 54
+  },
+  "gpu": {
+    "name": "RDNA3.5 890M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 0,
+    "maxGb": 32,
+    "maxSpeedMts": 7500,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 135,
+    "d2": 135,
+    "d3": 44,
+    "volumeL": 0.8,
+    "fan1Mm": 105,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 750,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 900
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/Beelink-LPDDR5X-7500MHz-PCIe4-0-Speakers/dp/B0DHMWSK91/ref=sr_1_3?crid=MEV7LXKV5YMT&dib=eyJ2IjoiMSJ9.eUps5nRIq_3n_W_uZG_dd09nV7iH8y0PGmePOaxWkhawB_yX3jxXeBT6jX9ouQMhR1GxGWm3jA8fg92Qw40xIXa81EmhRtMbONAZ0Xgg3PJFYJU6tdiZX0TG0_1sRNB1r8K5FtmDeqcqPW2B7VwHwfMKAdSFn0lRhNoAlYYq-UfzrYSmsa62MYEWVPbzMY-6JeLQ6kyGFvUQjjhVgaBgN4JiLa1C0Q6XysEgDpNbU1M.oyhQGc_j04vVB_saP_PF99nfsWRrbuLGOux3kW8Bjxs&dib_tag=se&keywords=beelink+ser9&qid=1729374666&sprefix=beelink+ser9%2Caps%2C131&sr=8-3"
+  },
+  "releaseDate": "18-Oct-2024",
+  "notes": "Oct 19 2024: $1000 to $900. Oct 13 2024: Beelink updated specs to support HDMI 2.1 4k 120hz. Preorder $1000 (yikes) for October 2024, five SER9 giveaway ends Oct 26 2024: https://www.reddit.com/r/MiniPCs/comments/1fo22oy/worldwide_giveaway_enter_to_win_ser9_mini_pcs/",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 703
+  }
+}

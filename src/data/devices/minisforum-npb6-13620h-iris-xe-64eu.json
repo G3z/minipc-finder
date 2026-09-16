@@ -1,0 +1,168 @@
+{
+  "id": "minisforum-npb6-13620h-iris-xe-64eu",
+  "model": "NPB6",
+  "brand": "Minisforum",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 126.5,
+    "brand": 2.7,
+    "socket": 0,
+    "gen": 13,
+    "gpu": 4,
+    "volume": 11.3,
+    "ram": 7.3,
+    "drive": 12,
+    "port": 10,
+    "lan": 6,
+    "seller": 2.7
+  },
+  "cpu": {
+    "name": "13620H",
+    "class": "i7",
+    "gen": "13th",
+    "socket": "0",
+    "pCores": 6,
+    "threads": 16,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Iris Xe 64EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 32,
+    "maxSpeedMts": 5200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 127,
+    "d2": 127,
+    "d3": 55,
+    "volumeL": 0.89,
+    "fan1Mm": 85,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 390,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 390
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Minisforum",
+    "url": null
+  },
+  "releaseDate": "1-Dec-2023",
+  "notes": "Dec 1: USB4 changed from 4k 60hz to 8k 60hz, 20mm NVMe SSD fan",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2620
+  }
+}

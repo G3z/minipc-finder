@@ -1,0 +1,168 @@
+{
+  "id": "asrock-deskmini-x600-8600g-8600g-rdna3-760m",
+  "model": "DeskMini X600 8600G",
+  "brand": "Asrock",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 143.1,
+    "brand": 2.2,
+    "socket": 3,
+    "gen": 14,
+    "gpu": 10,
+    "volume": 5.2,
+    "ram": 14.2,
+    "drive": 24,
+    "port": 0,
+    "lan": 3,
+    "seller": 6.5
+  },
+  "cpu": {
+    "name": "8600G",
+    "class": "r5",
+    "gen": "Zen 4",
+    "socket": "AM5",
+    "pCores": 6,
+    "threads": 12,
+    "tdpW": 65
+  },
+  "gpu": {
+    "name": "RDNA3 760M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 96,
+    "maxSpeedMts": 6400,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 4,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 155,
+    "d2": 155,
+    "d3": 80,
+    "volumeL": 1.92,
+    "fan1Mm": 120,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 361,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 361
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Newegg",
+    "url": "https://www.newegg.com/asrock-deskmini-x600/p/N82E16856158096?Item=N82E16856158096&Source=socialshare&cm_mmc=snc-social-_-sr-_-56-158-096-_-06282024"
+  },
+  "releaseDate": "28-Jun-2024",
+  "notes": "8600G is limited to PCIe Gen 4 and cannot use Gen 5 SSD",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 359
+  }
+}

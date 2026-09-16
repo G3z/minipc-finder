@@ -1,0 +1,168 @@
+{
+  "id": "nvidia-jetson-orin-nano-dev-kit-cortex-a78ae-40-tops",
+  "model": "Jetson Orin Nano Dev Kit",
+  "brand": "Nvidia",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 73.2,
+    "brand": 5,
+    "socket": null,
+    "gen": 7,
+    "gpu": 1.5,
+    "volume": 25,
+    "ram": 1.2,
+    "drive": 1,
+    "port": 0,
+    "lan": 1,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "Cortex A78AE",
+    "class": "ARM",
+    "gen": "A78",
+    "socket": null,
+    "pCores": 6,
+    "threads": 6,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "40 TOPS",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 0,
+    "maxGb": 8,
+    "maxSpeedMts": 1066,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 1,
+    "maxNvme": 0,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": null
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 1
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 100,
+    "d2": 79,
+    "d3": 21,
+    "volumeL": 0.17,
+    "fan1Mm": 40,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 500,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": null,
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2864
+  }
+}

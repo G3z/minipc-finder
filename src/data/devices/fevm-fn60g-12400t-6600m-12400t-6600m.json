@@ -1,0 +1,168 @@
+{
+  "id": "fevm-fn60g-12400t-6600m-12400t-6600m",
+  "model": "FN60G 12400T 6600M",
+  "brand": "FEVM",
+  "clonedFrom": null,
+  "scores": {
+    "overall": null,
+    "brand": 2,
+    "socket": 3,
+    "gen": 12,
+    "gpu": 28,
+    "volume": 3.9,
+    "ram": 10.3,
+    "drive": 19,
+    "port": 3,
+    "lan": 6,
+    "seller": 3.13
+  },
+  "cpu": {
+    "name": "12400T",
+    "class": "i5",
+    "gen": "12th",
+    "socket": "LGA1700",
+    "pCores": 6,
+    "threads": 12,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "6600M",
+    "discrete": true,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 5
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 168,
+    "d2": 168,
+    "d3": 92,
+    "volumeL": 2.6,
+    "fan1Mm": 80,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 740,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Aliexpress",
+    "url": "https://a.aliexpress.com/_mr4IO7M"
+  },
+  "releaseDate": "17-Apr-2024",
+  "notes": null,
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 1436
+  }
+}

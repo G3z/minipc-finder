@@ -1,0 +1,168 @@
+{
+  "id": "cwwk-topton-x86-p5-n97-2-nic-expanded-n97-iris-xe-24eu",
+  "model": "X86-P5 N97 2 NIC Expanded",
+  "brand": "CWWK/Topton",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 112.7,
+    "brand": 5,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 1.5,
+    "volume": 17,
+    "ram": 4.5,
+    "drive": 34,
+    "port": 0,
+    "lan": 6,
+    "seller": 3.13
+  },
+  "cpu": {
+    "name": "N97",
+    "class": "Celeron",
+    "gen": "12th",
+    "socket": "0",
+    "pCores": 0,
+    "threads": 4,
+    "tdpW": 6
+  },
+  "gpu": {
+    "name": "Iris Xe 24EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 1,
+    "maxGb": 16,
+    "maxSpeedMts": 4800,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 6,
+    "maxNvme": 4,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 113,
+    "d2": 100,
+    "d3": 52,
+    "volumeL": 0.59,
+    "fan1Mm": 0,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 170,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 170
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Aliexpress",
+    "url": "https://www.aliexpress.us/item/3256807722483891.html?spm=a2g0o.productlist.main.19.5d073dd00VUAaH&algo_pvid=93d0d39b-bfc3-40c8-9e5e-8a64e8b1f735&algo_exp_id=93d0d39b-bfc3-40c8-9e5e-8a64e8b1f735-9&pdp_npi=4%40dis%21USD%21249.88%21169.92%21%21%21249.88%21169.92%21%402101c5b217293544331231619e2905%2112000042798114693%21sea%21US%210%21ABX&curPageLogUid=WsL4AAqyj0cd&utparam-url=scene%3Asearch%7Cquery_from%3A"
+  },
+  "releaseDate": "1-Jul-2023",
+  "notes": "Optional 80mm and 40mm fans. Proprietary SATA connectors, drives must be mounted outside the chassis",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 1104
+  }
+}

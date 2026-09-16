@@ -1,0 +1,6 @@
+---
+import '../styles/theme.css';
+import CatalogFilter from '../islands/CatalogFilter';
+import catalog from '../data/catalog.json';
+---
+<main><h1>Mini PC Finder</h1><p class="muted">Compare public Mini PC Guide USA data. Seller links are not affiliate links.</p><CatalogFilter client:load devices={catalog} /></main>

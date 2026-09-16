@@ -1,0 +1,168 @@
+{
+  "id": "acemagic-vista-v1-n97-n97-iris-xe-24eu",
+  "model": "Vista V1 N97",
+  "brand": "AceMagic",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 99.9,
+    "brand": 6,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 1.5,
+    "volume": 25,
+    "ram": 3.9,
+    "drive": 7,
+    "port": 0,
+    "lan": 1,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "N97",
+    "class": "Celeron",
+    "gen": "12th",
+    "socket": "0",
+    "pCores": 0,
+    "threads": 4,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Iris Xe 24EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 1,
+    "maxGb": 16,
+    "maxSpeedMts": 3200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 1,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 1
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 99,
+    "d2": 99,
+    "d3": 30,
+    "volumeL": 0.29,
+    "fan1Mm": 70,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 75,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 145
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/ACEMAGIC-V1-Computers-Computer-Preinstalled/dp/B0DKWGXJYP/ref=sr_1_3?crid=209S8RXHK6K6E&dib=eyJ2IjoiMSJ9.4tWyIyePyDzK_nqnf-5z5-iMksWyTRmWh36VZsL84AW0wkE1QXKoIVe8tr1jncw44TWg5XvoMA_VmgH4RqlUZK0V5hk7JTkp9MtlkRaZFgU.uuCzpomxgqKZ0VKtt3H9lwnMuZNxo5zA3nEwS0KhQuk&dib_tag=se&keywords=acemagic+v1&qid=1734395509&sprefix=acemagic+v1%2Caps%2C134&sr=8-3"
+  },
+  "releaseDate": null,
+  "notes": null,
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 35
+  }
+}

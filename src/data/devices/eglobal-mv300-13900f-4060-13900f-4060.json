@@ -1,0 +1,168 @@
+{
+  "id": "eglobal-mv300-13900f-4060-13900f-4060",
+  "model": "MV300 13900F 4060",
+  "brand": "EGLOBAL",
+  "clonedFrom": "Topton",
+  "scores": {
+    "overall": null,
+    "brand": null,
+    "socket": 3,
+    "gen": 13,
+    "gpu": 37,
+    "volume": 3.1,
+    "ram": 9.7,
+    "drive": 15,
+    "port": 0,
+    "lan": 2,
+    "seller": 3.13
+  },
+  "cpu": {
+    "name": "13900F",
+    "class": "i9",
+    "gen": "13th",
+    "socket": "LGA1700",
+    "pCores": 8,
+    "threads": 32,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "4060",
+    "discrete": true,
+    "integrated": false
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 3200,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 2
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 270,
+    "d2": 215,
+    "d3": 55,
+    "volumeL": 3.19,
+    "fan1Mm": 90,
+    "fan2Mm": 90
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 730,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Aliexpress",
+    "url": "https://www.aliexpress.us/item/3256806845205617.html?spm=a2g0o.productlist.main.21.b5be6e83ONTKUS&algo_pvid=dcb5291c-8b72-4843-bf1a-f5e1808f3ac4&algo_exp_id=dcb5291c-8b72-4843-bf1a-f5e1808f3ac4-10&pdp_npi=4%40dis%21USD%211525.14%21869.33%21%21%211525.14%21869.33%21%402101f08717186717016605522e92fe%2112000039156626341%21sea%21US%210%21AB&curPageLogUid=8tzutUSFHeD5&utparam-url=scene%3Asearch%7Cquery_from%3A"
+  },
+  "releaseDate": "17-Jun-2024",
+  "notes": null,
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 3356
+  }
+}

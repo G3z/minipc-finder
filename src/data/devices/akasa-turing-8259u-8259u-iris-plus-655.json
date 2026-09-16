@@ -1,0 +1,168 @@
+{
+  "id": "akasa-turing-8259u-8259u-iris-plus-655",
+  "model": "Turing 8259U",
+  "brand": "Akasa",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 68.4,
+    "brand": 0,
+    "socket": 0,
+    "gen": 8,
+    "gpu": 1.5,
+    "volume": 3.7,
+    "ram": 6.2,
+    "drive": 10,
+    "port": 0,
+    "lan": 1,
+    "seller": 5.5
+  },
+  "cpu": {
+    "name": "8259U",
+    "class": "i5",
+    "gen": "8th",
+    "socket": "0",
+    "pCores": 4,
+    "threads": 8,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "Iris Plus 655",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 32,
+    "maxSpeedMts": 2400,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 1
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 250,
+    "d2": 114,
+    "d3": 95,
+    "volumeL": 2.71,
+    "fan1Mm": 0,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 379,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 379
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Ebay",
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": "NUC8 Bean Canyon Case",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 99
+  }
+}

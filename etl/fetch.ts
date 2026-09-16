@@ -1,0 +1,4 @@
+import { mkdir, writeFile } from 'node:fs/promises';
+import { source } from './source';
+
+export const fetchSheet = async () => { const url = `https://docs.google.com/spreadsheets/d/${source.sheetId}/export?format=csv&gid=${source.gid}`; let last: unknown; for (let attempt = 0; attempt < 3; attempt++) try { const response = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(30_000) }); const type = response.headers.get('content-type') ?? ''; if (!response.ok || type.includes('text/html')) throw new Error(`Invalid sheet response: ${response.status} (${type})`); const data = Buffer.from(await response.arrayBuffer()); await mkdir('.cache', { recursive: true }); await writeFile('.cache/guide-usa.csv', data); return data.toString('utf8'); } catch (error) { last = error; await new Promise(resolve => setTimeout(resolve, 500 * (attempt + 1))); } throw last; };

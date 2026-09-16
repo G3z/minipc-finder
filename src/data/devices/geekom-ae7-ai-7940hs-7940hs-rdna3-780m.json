@@ -1,0 +1,168 @@
+{
+  "id": "geekom-ae7-ai-7940hs-7940hs-rdna3-780m",
+  "model": "AE7 AI 7940HS",
+  "brand": "Geekom",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 148.2,
+    "brand": 6,
+    "socket": 0,
+    "gen": 14,
+    "gpu": 10,
+    "volume": 15.6,
+    "ram": 10.6,
+    "drive": 10,
+    "port": 5,
+    "lan": 3,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "7940HS",
+    "class": "r9",
+    "gen": "Zen 4",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 45
+  },
+  "gpu": {
+    "name": "RDNA3 780M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 5600,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 117,
+    "d2": 112,
+    "d3": 49,
+    "volumeL": 0.64,
+    "fan1Mm": 80,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 450,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 600
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/GEEKOM-AE7-Processor-Computer-5-2GHz/dp/B0D25WCP6J/ref=sr_1_13?crid=27DAGA637PGN8&dib=eyJ2IjoiMSJ9.oPcb6qaO2coj0EPdkHLN6qIIgK-jsiZO_659natln1RQH-Q9nzLvcmUZ0M5YKmtID-z2IZdQ9B8KHzKk86ILax01UVYu54VwOUVohA_ykUOFL0pwkpwTU1_tDRc9bYNRSRg7ZPXqwEA2RsxZknpznHy_IvIQ1inRVtvKA-wPSpQ.pGI8fU6krzWZQmR0nwkyWM-K3_4WII8rManWs-RAWtM&dib_tag=se&keywords=geekom%2Bn100&qid=1728446465&sprefix=geekom%2Bn100%2Caps%2C102&sr=8-13&th=1"
+  },
+  "releaseDate": "10-Jun-2024",
+  "notes": "DDR5 thermal throttles",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 1512
+  }
+}

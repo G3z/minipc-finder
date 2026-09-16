@@ -1,0 +1,168 @@
+{
+  "id": "minisforum-ms-01-s1290-t1000-12900h-t1000",
+  "model": "MS-01-S1290 T1000",
+  "brand": "Minisforum",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 177.8,
+    "brand": 2.7,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 14,
+    "volume": 5.6,
+    "ram": 10.5,
+    "drive": 21,
+    "port": 10,
+    "lan": 16,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "12900H",
+    "class": "i9",
+    "gen": "12th",
+    "socket": "0",
+    "pCores": 6,
+    "threads": 20,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "T1000",
+    "discrete": true,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 5200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 3,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 7
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 2,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 4,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 196,
+    "d2": 189,
+    "d3": 48,
+    "volumeL": 1.78,
+    "fan1Mm": 80,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 835,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 835
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://a.co/d/0ybIui3"
+  },
+  "releaseDate": "28-Dec-2023",
+  "notes": "Feb 2 2024: A2000 requires a cooler mod to reduce its height from double to single slot. I cannot find it for sale. Dec 28: PCIe 4.0X16 slot is limited to x8 bandwidth",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2566
+  }
+}

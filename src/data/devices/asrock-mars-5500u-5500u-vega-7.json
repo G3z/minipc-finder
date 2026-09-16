@@ -1,0 +1,168 @@
+{
+  "id": "asrock-mars-5500u-5500u-vega-7",
+  "model": "Mars 5500U",
+  "brand": "Asrock",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 0,
+    "brand": 2.2,
+    "socket": 0,
+    "gen": 11,
+    "gpu": 5,
+    "volume": 13.2,
+    "ram": 9.7,
+    "drive": 10,
+    "port": 0,
+    "lan": 0,
+    "seller": 0
+  },
+  "cpu": {
+    "name": "5500U",
+    "class": "r5",
+    "gen": "Zen 2+",
+    "socket": "0",
+    "pCores": 6,
+    "threads": 12,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "Vega 7",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 3200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": null,
+      "g5": 0,
+      "g2_5": null,
+      "g1": null
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 194,
+    "d2": 150,
+    "d3": 26,
+    "volumeL": 0.76,
+    "fan1Mm": 70,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": null,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": null,
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": null,
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 449
+  }
+}

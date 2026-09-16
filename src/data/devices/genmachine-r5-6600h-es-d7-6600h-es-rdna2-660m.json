@@ -1,0 +1,168 @@
+{
+  "id": "genmachine-r5-6600h-es-d7-6600h-es-rdna2-660m",
+  "model": "R5-6600H ES / D7",
+  "brand": "GenMachine",
+  "clonedFrom": "Firebat",
+  "scores": {
+    "overall": 117.4,
+    "brand": 3,
+    "socket": 0,
+    "gen": 13,
+    "gpu": 7,
+    "volume": 11,
+    "ram": 10.3,
+    "drive": 7,
+    "port": 7,
+    "lan": 4,
+    "seller": 3.13
+  },
+  "cpu": {
+    "name": "6600H ES",
+    "class": "r5",
+    "gen": "Zen 3+",
+    "socket": "0",
+    "pCores": 6,
+    "threads": 12,
+    "tdpW": 45
+  },
+  "gpu": {
+    "name": "RDNA2 660M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 1,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 1
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 130,
+    "d2": 130,
+    "d3": 54,
+    "volumeL": 0.91,
+    "fan1Mm": 100,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 275,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 275
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Aliexpress",
+    "url": "https://www.aliexpress.us/item/3256806095577862.html?spm=a2g0o.productlist.main.1.4ac8mwTTmwTTxf&algo_pvid=0bb4c61e-933e-4159-9aee-1639c6e80c7b&algo_exp_id=0bb4c61e-933e-4159-9aee-1639c6e80c7b-0&pdp_npi=4%40dis%21USD%21325.40%21325.40%21%21%212346.10%212346.10%21%402103246617146015735041021e5b6f%2112000036598319907%21sea%21US%210%21AB&curPageLogUid=OWH4wH7vunp7&utparam-url=scene%3Asearch%7Cquery_from%3A"
+  },
+  "releaseDate": null,
+  "notes": "Engineering Sample",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 1576
+  }
+}

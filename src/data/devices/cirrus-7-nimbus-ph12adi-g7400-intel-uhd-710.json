@@ -1,0 +1,168 @@
+{
+  "id": "cirrus-7-nimbus-ph12adi-g7400-intel-uhd-710",
+  "model": "Nimbus PH12ADI",
+  "brand": "Cirrus 7",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 94.1,
+    "brand": 7,
+    "socket": 3,
+    "gen": 14,
+    "gpu": 1,
+    "volume": -9.5,
+    "ram": 13.5,
+    "drive": 15,
+    "port": 0,
+    "lan": 4,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "G7400",
+    "class": "Pentium",
+    "gen": "14th",
+    "socket": "LGA1700",
+    "pCores": 4,
+    "threads": 4,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Intel UHD 710",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 96,
+    "maxSpeedMts": 4800,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 1
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 246,
+    "d2": 246,
+    "d3": 90,
+    "volumeL": 5.45,
+    "fan1Mm": 0,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 890,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Cirrus 7",
+    "url": "https://www.cirrus7.com/en/produkte/cirrus7-nimbus/"
+  },
+  "releaseDate": null,
+  "notes": null,
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 877
+  }
+}

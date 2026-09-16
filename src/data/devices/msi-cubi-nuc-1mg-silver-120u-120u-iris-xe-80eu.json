@@ -1,0 +1,168 @@
+{
+  "id": "msi-cubi-nuc-1mg-silver-120u-120u-iris-xe-80eu",
+  "model": "Cubi NUC 1MG (Silver) 120U",
+  "brand": "MSI",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 0,
+    "brand": 5,
+    "socket": 0,
+    "gen": 13,
+    "gpu": 5,
+    "volume": 11.1,
+    "ram": 10.5,
+    "drive": 20,
+    "port": 15.5,
+    "lan": 6,
+    "seller": 6.5
+  },
+  "cpu": {
+    "name": "120U",
+    "class": "i5",
+    "gen": "13th",
+    "socket": "0",
+    "pCores": 2,
+    "threads": 12,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Iris Xe 80EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 5200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 4,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 1.25,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 136,
+    "d2": 133,
+    "d3": 50,
+    "volumeL": 0.9,
+    "fan1Mm": 80,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": null,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Newegg",
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": "Supports HDMI CEC power on with compatible MSI monitors, video output is limited to 4k 60hz and not 8k 60hz",
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2808
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "simply-nuc-moonstone-cbm3r5ms-7535u-6650u-rdna2-660m",
+  "model": "Moonstone CBM3r5MS",
+  "brand": "Simply NUC",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 148.5,
+    "brand": 7.5,
+    "socket": 0,
+    "gen": 13,
+    "gpu": 7,
+    "volume": 14.1,
+    "ram": 10.3,
+    "drive": 10,
+    "port": 16,
+    "lan": 3,
+    "seller": 7.5
+  },
+  "cpu": {
+    "name": "7535U/6650U",
+    "class": "r5",
+    "gen": "Zen 3+",
+    "socket": "0",
+    "pCores": 6,
+    "threads": 12,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "RDNA2 660M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 117,
+    "d2": 112,
+    "d3": 54,
+    "volumeL": 0.71,
+    "fan1Mm": 80,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 600,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 650
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Simply NUC",
+    "url": "https://simplynuc.com/product/cbm3r5ms/"
+  },
+  "releaseDate": "20-Sep-2023",
+  "notes": "Aug 31 2024: $700 to $600. Sep 20: 2.5\" drive does not have enough pins to operate",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 3099
+  }
+}

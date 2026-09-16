@@ -1,0 +1,168 @@
+{
+  "id": "intel-extreme-nuc11btmi9-11900kb-intel-uhd-750",
+  "model": "Extreme NUC11BTMi9",
+  "brand": "Intel",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 109.7,
+    "brand": 6,
+    "socket": 2,
+    "gen": 11,
+    "gpu": 2,
+    "volume": -36,
+    "ram": 9.7,
+    "drive": 37,
+    "port": 13,
+    "lan": 3,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "11900KB",
+    "class": "i9",
+    "gen": "11th",
+    "socket": "LGA1200",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 65
+  },
+  "gpu": {
+    "name": "Intel UHD 750",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 3200,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 7,
+    "maxNvme": 4,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 357,
+    "d2": 189,
+    "d3": 120,
+    "volumeL": 8.1,
+    "fan1Mm": 90,
+    "fan2Mm": 90
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 1380,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 1380
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/Intel-Extreme-NUC11BTMi9-Gaming-Barebone/dp/B09GNWLBPL/ref=sr_1_1?crid=3V6R9FG4V96AN&dib=eyJ2IjoiMSJ9.EbHC3ax8PkVUVhoQD5ZLbkqCnMinYMBPpKD4-RwEu9kIfUl0hf8rMyp7gabOacj-NlFjSBREeZMBq6Xz8v-T_XiRYdFeBc4AOq3QVQe4idfArx7KCbZyJ1PvJnoGPLSi5_4x_R9RcaNpP7nb3PZgYmPn0GGJrSiaAdCeDPKh8t2uD8YMGsx1Ji80tGej3k6OyLXXBnyl8H5NrNdWC4yHzEdE_MIJ0U8ABVxaOhYptNI.K3j-aQx97TX25-TPLYP9dJ-SmSe0iWVVOsUKNBgNcnE&dib_tag=se&keywords=intel+nuc11btmi9&qid=1728916444&sprefix=intel+nuc11btmi9%2Caps%2C118&sr=8-1"
+  },
+  "releaseDate": null,
+  "notes": "Oct 14 2024: $830 to $1380. May 1 2024: $900 to $830. April 2: I missed a M.2 pcie gen 3 port on the baseboard reported by hardware canucks, HDMI 2.1 requires discrete GPU to be added",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2102
+  }
+}

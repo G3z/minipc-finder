@@ -1,0 +1,168 @@
+{
+  "id": "lenovo-m715q-tiny-2400ge-vega-11-ryzen-2000",
+  "model": "M715q Tiny",
+  "brand": "Lenovo",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 90.6,
+    "brand": 5,
+    "socket": 2,
+    "gen": 8,
+    "gpu": 5,
+    "volume": 8.7,
+    "ram": 6.4,
+    "drive": 10,
+    "port": 0,
+    "lan": 0,
+    "seller": 5.5
+  },
+  "cpu": {
+    "name": "2400GE",
+    "class": "r5",
+    "gen": "Zen 1",
+    "socket": "AM4",
+    "pCores": 4,
+    "threads": 8,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "Vega 11 (Ryzen 2000)",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 32,
+    "maxSpeedMts": 2933,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": null,
+      "g5": 0,
+      "g2_5": null,
+      "g1": null
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 183,
+    "d2": 179,
+    "d3": 35,
+    "volumeL": 1.15,
+    "fan1Mm": 80,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 50,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Ebay",
+    "url": "https://www.ebay.com/itm/266773511780?itmmeta=01HWV9C90PFMSV186TF7BJXFP2&hash=item3e1cf0be64:g:9a4AAOSwJstmH~qe&itmprp=enc%3AAQAJAAAA4PA6mVHAwKfmcxrSGFK5aciyNRW72DTHh4i1L5S2fFgbrZUvWE1ACoyRYkOgtm8c19C7q4XkSpRh%2BQePq6F%2BjiVwXVpr8wMhbETXeSqdm7bPLRBsLMFpz3qsZMslRqAYYeQsnfLZzSnbo8%2Bay1Hes9%2FGOBdRTW1J7BPdYLV%2FCUXYRnhsUMWud9gDQvDTTgPlTVb1c%2BLs1OsFGdSxeuQTi%2BHCg0Pk0JIq6Hf3QvhnQYuDGwZMUJHJK9VrjGs129wdyfz%2FdiYPBVBCt4W64Ut%2FhX4MR4%2FuAyk2YhP2KVSqbuSH%7Ctkp%3ABFBMvpCx6eZj"
+  },
+  "releaseDate": null,
+  "notes": "May 1 2024: $90 to $50. Jan 31 2024: $110 to $90",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2386
+  }
+}

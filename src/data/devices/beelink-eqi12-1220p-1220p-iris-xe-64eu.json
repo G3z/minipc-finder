@@ -1,0 +1,168 @@
+{
+  "id": "beelink-eqi12-1220p-1220p-iris-xe-64eu",
+  "model": "EQi12 1220P",
+  "brand": "Beelink",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 119.8,
+    "brand": 5.25,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 4,
+    "volume": 13.7,
+    "ram": 10.3,
+    "drive": 18,
+    "port": 0,
+    "lan": 2,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "1220P",
+    "class": "i3",
+    "gen": "12th",
+    "socket": "0",
+    "pCores": 2,
+    "threads": 12,
+    "tdpW": 28
+  },
+  "gpu": {
+    "name": "Iris Xe 64EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 2
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 126,
+    "d2": 126,
+    "d3": 46,
+    "volumeL": 0.73,
+    "fan1Mm": 80,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 147,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 257
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/Beelink-Computers-i5-11320H-Computer-Supports/dp/B0BPL4G7WJ/ref=sr_1_3?crid=1CSOS3827XJDV&dib=eyJ2IjoiMSJ9.fQEegq58-6jSKrsbNOXQsUSGzdi_WD7EdcXdPxeKnmc9P6JTe0CLuDTqV-ByUSAX9e671J3brVBXtnAM0Tpt9czuVSyunOtBEkcjnQEkHEfHsyzFLjQhasFdUWFORWSSVo1gj7reiffJZ7FGkqU0e9Mfj2cSOeHb2VFnHuEaICM.eNXMLcK5r1i1_Qm4xD0kPQNlJBXxQQqVy2CJKRdWO2Q&dib_tag=se&keywords=eqi12%2B1220p&qid=1728442975&sprefix=eqi12%2Caps%2C120&sr=8-3&th=1"
+  },
+  "releaseDate": "20-Aug-2024",
+  "notes": "Oct 10 2024: $130 to $147. Oct 8 2024: $180 to $130",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 741
+  }
+}

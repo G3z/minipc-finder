@@ -1,0 +1,168 @@
+{
+  "id": "aoostar-ag02-desktop-gpu-slot",
+  "model": "AG02",
+  "brand": "AOOSTAR",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 33.2,
+    "brand": 4,
+    "socket": 0,
+    "gen": null,
+    "gpu": 1,
+    "volume": 6.7,
+    "ram": 0,
+    "drive": 0,
+    "port": 9,
+    "lan": 0,
+    "seller": 5.5
+  },
+  "cpu": {
+    "name": null,
+    "class": null,
+    "gen": null,
+    "socket": "0",
+    "pCores": null,
+    "threads": null,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Desktop GPU Slot",
+    "discrete": true,
+    "integrated": false
+  },
+  "memory": {
+    "slots": 0,
+    "maxGb": 0,
+    "maxSpeedMts": 0,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": null,
+    "maxNvme": 0,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 1,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": null
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": null,
+      "g5": 0,
+      "g2_5": null,
+      "g1": null
+    },
+    "maxEth": null,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 225,
+    "d2": 110,
+    "d3": 60,
+    "volumeL": 1.49,
+    "fan1Mm": 40,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 250,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 250
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "MinixPC",
+    "url": null
+  },
+  "releaseDate": "3-Sep-2024",
+  "notes": "Power supply is guarenteed to be 400W",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 117
+  }
+}

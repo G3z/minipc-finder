@@ -1,0 +1,168 @@
+{
+  "id": "firebat-6600h-6600h-rdna2-660m",
+  "model": "6600H",
+  "brand": "FIREBAT",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 119.2,
+    "brand": 1.13,
+    "socket": 0,
+    "gen": 13,
+    "gpu": 7,
+    "volume": 11,
+    "ram": 10.3,
+    "drive": 7,
+    "port": 7,
+    "lan": 4,
+    "seller": 6.5
+  },
+  "cpu": {
+    "name": "6600H",
+    "class": "r7",
+    "gen": "Zen 3+",
+    "socket": "0",
+    "pCores": 6,
+    "threads": 12,
+    "tdpW": 45
+  },
+  "gpu": {
+    "name": "RDNA2 660M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 1,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 1,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 1
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 130,
+    "d2": 130,
+    "d3": 54,
+    "volumeL": 0.91,
+    "fan1Mm": 100,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 170,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 260
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Newegg",
+    "url": "https://www.newegg.com/p/2SW-00AD-00005?item=9SIBUGBK653758&source=region&nm_mc=knc-googlemkp-pc&cm_mmc=knc-googlemkp-pc-_-pla-firebat-_-barebone+systems+-+mini-pc-_-9SIBUGBK653758&utm_source=google&utm_medium=paid+shopping&utm_campaign=knc-googlemkp-pc-_-pla-firebat-_-barebone+systems+-+mini-pc-_-9SIBUGBK653758&id0=Google&id1=19494340042&id2=145187873019&id3=&id4=&id5=pla-2297349774920&id6=&id7=9021458&id8=&id9=g&id10=c&id11=&id12=Cj0KCQjwvb-zBhCmARIsAAfUI2t-T89BI-rcq3geo8rAg-_plXcZ_QdtOIrF1zSKySBGzJoc5W5teR0aAsjREALw_wcB&id13=&id14=Y&id15=&id16=643884528645&id17=&id18=&id19=&id20=&id21=pla&id22=5335666718&id23=online&id24=9SIBUGBK653758&id25=US&id26=2297349774920&id27=Y&id28=&id29=&id30=16312884174534397970&id31=en&id32=&id33=&id34=&gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2t-T89BI-rcq3geo8rAg-_plXcZ_QdtOIrF1zSKySBGzJoc5W5teR0aAsjREALw_wcB"
+  },
+  "releaseDate": "17-Jun-2024",
+  "notes": null,
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 1447
+  }
+}

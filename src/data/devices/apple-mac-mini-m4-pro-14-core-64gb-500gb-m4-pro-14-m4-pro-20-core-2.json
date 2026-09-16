@@ -1,0 +1,168 @@
+{
+  "id": "apple-mac-mini-m4-pro-14-core-64gb-500gb-m4-pro-14-m4-pro-20-core-2",
+  "model": "Mac mini M4 Pro 14-Core 64GB 500GB",
+  "brand": "Apple",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 161,
+    "brand": 6.9,
+    "socket": 0,
+    "gen": 19,
+    "gpu": 22,
+    "volume": 12.4,
+    "ram": 9.8,
+    "drive": 0,
+    "port": 0,
+    "lan": 1,
+    "seller": 6.9
+  },
+  "cpu": {
+    "name": "M4 Pro 14",
+    "class": "ARM",
+    "gen": "M4",
+    "socket": "0",
+    "pCores": 10,
+    "threads": 14,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "M4 Pro 20-core",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 0,
+    "maxGb": 64,
+    "maxSpeedMts": 8533,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 0,
+    "maxNvme": 0,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 3,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 1
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 127,
+    "d2": 127,
+    "d3": 50,
+    "volumeL": 0.81,
+    "fan1Mm": 80,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 2000,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Apple",
+    "url": "https://www.apple.com/shop/buy-mac/mac-mini/apple-m4-pro-chip-with-12-core-cpu-16-core-gpu-24gb-memory-512gb"
+  },
+  "releaseDate": "29-Oct-2024",
+  "notes": "No USBA and power button on bottom of mini PC",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 224
+  }
+}

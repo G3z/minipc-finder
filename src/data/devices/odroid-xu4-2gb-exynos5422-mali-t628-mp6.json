@@ -1,0 +1,168 @@
+{
+  "id": "odroid-xu4-2gb-exynos5422-mali-t628-mp6",
+  "model": "XU4 2GB",
+  "brand": "Odroid",
+  "clonedFrom": null,
+  "scores": {
+    "overall": null,
+    "brand": 0,
+    "socket": 0,
+    "gen": null,
+    "gpu": null,
+    "volume": 25,
+    "ram": 0.2,
+    "drive": null,
+    "port": 0,
+    "lan": null,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "Exynos5422",
+    "class": "ARM",
+    "gen": "A15+A7",
+    "socket": "0",
+    "pCores": null,
+    "threads": null,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Mali T628 MP6",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 0,
+    "maxGb": 2,
+    "maxSpeedMts": null,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": null,
+    "maxNvme": 0,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": null,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": null
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": null,
+      "g5": 0,
+      "g2_5": null,
+      "g1": null
+    },
+    "maxEth": null,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 83,
+    "d2": 58,
+    "d3": 20,
+    "volumeL": 0.1,
+    "fan1Mm": 40,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 65,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": null,
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2879
+  }
+}

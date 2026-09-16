@@ -1,0 +1,168 @@
+{
+  "id": "minisforum-hx100g-7840hs-6650m",
+  "model": "HX100G",
+  "brand": "Minisforum",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 189.8,
+    "brand": 2.7,
+    "socket": 0,
+    "gen": 14,
+    "gpu": 29,
+    "volume": 3.5,
+    "ram": 10.6,
+    "drive": 18,
+    "port": 16,
+    "lan": 3,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "7840HS",
+    "class": "r7",
+    "gen": "Zen 4",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "6650M",
+    "discrete": true,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 5600,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 205,
+    "d2": 203,
+    "d3": 69,
+    "volumeL": 2.87,
+    "fan1Mm": 90,
+    "fan2Mm": 90
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 675,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 825
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 920
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://a.co/d/iBFacxO"
+  },
+  "releaseDate": "24-Jan-2024",
+  "notes": "Nov 25 2024: $980 to $675. June 2 2024: $800 to $980. April 17 2024: $693 to $920. Mar 2 2024: $720 to $693",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2548
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "bosgame-p1-ser5-pro-5700u-vega-8",
+  "model": "P1 / SER5 Pro",
+  "brand": "Bosgame",
+  "clonedFrom": "Beelink",
+  "scores": {
+    "overall": null,
+    "brand": 4,
+    "socket": 0,
+    "gen": 11,
+    "gpu": 6,
+    "volume": 16.7,
+    "ram": 9.7,
+    "drive": 10,
+    "port": 0,
+    "lan": 3,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "5700U",
+    "class": "r7",
+    "gen": "Zen 2+",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "Vega 8",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 3200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 126,
+    "d2": 113,
+    "d3": 42,
+    "volumeL": 0.6,
+    "fan1Mm": 80,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 173,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 243
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 380
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 300
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/BOSGAME-P1-Computers-Windows-Support/dp/B0CSD1VVD2/ref=sr_1_3?crid=GSHYHPPGQ5KE&dib=eyJ2IjoiMSJ9.bvRZ1vy5Go7CKMnV9ScJMHe-PQXBn-JcXyv4FMV3WVm9sChtqVwgTIeswm6u2siX.BH2VtvcVPYA2qfD0KOJH-M8OFohbbyXV9mocmh2vmzw&dib_tag=se&keywords=bosgame+p1+32gb+512gb&qid=1728440935&sprefix=bosgame+p1+32gb+512gb%2Caps%2C85&sr=8-3"
+  },
+  "releaseDate": "6-Feb-2024",
+  "notes": "Oct 8 2024: $210 to $173. Jun 28 2024: $260 to $200. May 1 2024: $160 to $260. April 1 2024: $120 to $160",
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 856
+  }
+}

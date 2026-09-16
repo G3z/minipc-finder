@@ -1,0 +1,168 @@
+{
+  "id": "aoostar-r7-nas-5800u-5800u-vega-8",
+  "model": "R7 NAS 5800U",
+  "brand": "AOOSTAR",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 104.5,
+    "brand": 4,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 6,
+    "volume": -7,
+    "ram": 9.7,
+    "drive": 16.75,
+    "port": 0,
+    "lan": 6,
+    "seller": 4
+  },
+  "cpu": {
+    "name": "5800U",
+    "class": "r7",
+    "gen": "Zen 3",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "Vega 8",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 3200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 5.25,
+    "maxNvme": 1.25,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 198,
+    "d2": 162,
+    "d3": 162,
+    "volumeL": 5.2,
+    "fan1Mm": 80,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 310,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 310
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 390
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 450
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "AOOSTAR",
+    "url": "https://aoostar.com/products/aoostar-r7-2-bay-40t-nas-storage-amd-ryzen-7-5825u-mini-pc8c-16t-up-to-4-5ghz-with-w11-pro-ddr4-ram-2-m-2-nvme-%E5%A4%8D%E5%88%B6"
+  },
+  "releaseDate": "18-Aug-2024",
+  "notes": "Aug 18 2024: Both M.2 NVMe ports are x2 and not x4",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 157
+  }
+}

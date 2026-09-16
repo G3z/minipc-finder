@@ -1,0 +1,168 @@
+{
+  "id": "bosgame-b100-n100-iris-xe-24eu",
+  "model": "B100",
+  "brand": "Bosgame",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 104.6,
+    "brand": 4,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 1.5,
+    "volume": 17.3,
+    "ram": 3.9,
+    "drive": 4.75,
+    "port": 16.7,
+    "lan": 1,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "N100",
+    "class": "Celeron",
+    "gen": "12th",
+    "socket": "0",
+    "pCores": 0,
+    "threads": 4,
+    "tdpW": 6
+  },
+  "gpu": {
+    "name": "Iris Xe 24EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 1,
+    "maxGb": 16,
+    "maxSpeedMts": 3200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 1.25,
+    "maxNvme": 0.25,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 1
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 126,
+    "d2": 112,
+    "d3": 41,
+    "volumeL": 0.58,
+    "fan1Mm": 60,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 90,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 160
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/B100-Computers-Windows-Support-Display/dp/B0CT8VQRW1/ref=sr_1_4?crid=1ZKQWDY1TIPLG&dib=eyJ2IjoiMSJ9.tBjL_wA64YmYJZY59ynsERtAIszZSf_k1582eYOmwsL-POtis1gHMp6mIgVu7dmyu9hJNonAXVE1owrcXvX4ka-pgPAVfBGzaMIULCxpqQW-wGfNlaQZ7nILiYFbbfe6ynJ33rxjqjqLvNAa1dzQKePpwUQECiVB2Glz9JyA_WoJcOQeOChndWAgUdWWTDkL.bTZfuUEX091OPA8YUJX-778Va5H2l9BRHCpg9ASEm1M&dib_tag=se&keywords=bosgame+n100&qid=1714603164&sprefix=bosgame+n100%2Caps%2C150&sr=8-4"
+  },
+  "releaseDate": null,
+  "notes": "Jun 28 2024: $100 to $80. May 1 2024: $90 to $100. April 14 2024: $60 to $90. Feb 6 2024: $120 to $60. Jun 18: $150 to $90",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 861
+  }
+}

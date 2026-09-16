@@ -1,0 +1,168 @@
+{
+  "id": "odroid-c4-4gb-a55-s905x3",
+  "model": "C4 4GB",
+  "brand": "Odroid",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 0,
+    "brand": 0,
+    "socket": 0,
+    "gen": null,
+    "gpu": null,
+    "volume": 0,
+    "ram": 0,
+    "drive": 0,
+    "port": 0,
+    "lan": 0,
+    "seller": 0
+  },
+  "cpu": {
+    "name": "A55/S905X3",
+    "class": "ARM",
+    "gen": null,
+    "socket": "0",
+    "pCores": 4,
+    "threads": 4,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": null,
+    "discrete": null,
+    "integrated": null
+  },
+  "memory": {
+    "slots": 0,
+    "maxGb": null,
+    "maxSpeedMts": null,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": null,
+    "maxNvme": 0,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": null,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": null,
+      "g5": 0,
+      "g2_5": null,
+      "g1": null
+    },
+    "maxEth": null,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": null,
+    "d2": null,
+    "d3": null,
+    "volumeL": null,
+    "fan1Mm": 0,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": null,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": null,
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": "Supports Retro Pi",
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2880
+  }
+}

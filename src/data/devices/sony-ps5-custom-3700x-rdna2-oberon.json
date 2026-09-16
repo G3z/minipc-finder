@@ -1,0 +1,168 @@
+{
+  "id": "sony-ps5-custom-3700x-rdna2-oberon",
+  "model": "PS5",
+  "brand": "Sony",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 95.1,
+    "brand": 7.5,
+    "socket": 0,
+    "gen": 10,
+    "gpu": 40,
+    "volume": -60.5,
+    "ram": 1.6,
+    "drive": 9,
+    "port": 3,
+    "lan": 0,
+    "seller": 7.5
+  },
+  "cpu": {
+    "name": "Custom/3700X",
+    "class": "r7",
+    "gen": "Zen 2",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 8,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "RDNA2 Oberon",
+    "discrete": true,
+    "integrated": false
+  },
+  "memory": {
+    "slots": 0,
+    "maxGb": 16,
+    "maxSpeedMts": null,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 1,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 1
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": null,
+      "g5": 0,
+      "g2_5": null,
+      "g1": null
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 390,
+    "d2": 260,
+    "d3": 104,
+    "volumeL": 10.55,
+    "fan1Mm": 120,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 440,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Sony",
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": "Blue-ray disc reader, ssd compatibility is picky",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 3244
+  }
+}

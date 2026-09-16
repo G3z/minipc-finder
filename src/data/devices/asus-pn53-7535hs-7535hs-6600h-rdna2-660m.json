@@ -1,0 +1,168 @@
+{
+  "id": "asus-pn53-7535hs-7535hs-6600h-rdna2-660m",
+  "model": "PN53 7535HS",
+  "brand": "Asus",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 154.4,
+    "brand": 5,
+    "socket": 0,
+    "gen": 13,
+    "gpu": 7,
+    "volume": 11.1,
+    "ram": 10.3,
+    "drive": 21,
+    "port": 19,
+    "lan": 3,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "7535HS/6600H",
+    "class": "r5",
+    "gen": "Zen 3+",
+    "socket": "0",
+    "pCores": 6,
+    "threads": 12,
+    "tdpW": 45
+  },
+  "gpu": {
+    "name": "RDNA2 660M",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 4
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 130,
+    "d2": 120,
+    "d3": 58,
+    "volumeL": 0.9,
+    "fan1Mm": 80,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 430,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 430
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/ASUS-ExpertCenter-Barebone-displays-Bluetooth/dp/B0CJDTP6TY/ref=sr_1_3?crid=3UM6XYR71G7CB&dib=eyJ2IjoiMSJ9.89tTRXMk5BdHOiPCkWf6SL41nI7ItSbS6ekthUBpniqhkYey_QrfMXoy-tLTBfeV7lG9sCC6CWR6wgatcwpCxEss-bWZVNFuUm4cG4ap6VIhBLApg80vRcOrVnDaNKpOLYuptcubr35fYsSYK51Cdtwclgw-E85nELF_G2lCQPalnoF2axR2714JUYbEYLqzLJskRz1QeZq4cCOni-AspKwSqd3BlM-6FZp8rxxesjE.67LUI9QnGmJan8mOLgPZlQz11TcCTcbRh8i3cr0LALw&dib_tag=se&keywords=asus+pn53&qid=1714611232&sprefix=asus+pn53%2Caps%2C132&sr=8-3"
+  },
+  "releaseDate": "3-Aug-2023",
+  "notes": "May 1 2024: $580 to $430",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 517
+  }
+}

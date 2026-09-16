@@ -1,0 +1,168 @@
+{
+  "id": "acemagician-am06-pro-windows-full-scan-5800u-vega-8",
+  "model": "AM06 Pro Windows Full Scan",
+  "brand": "AceMagician",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 122.2,
+    "brand": 6,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 6,
+    "volume": 11.5,
+    "ram": 9.7,
+    "drive": 10,
+    "port": 0,
+    "lan": 4,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "5800U",
+    "class": "r7",
+    "gen": "Zen 3",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "Vega 8",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 3200,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 1
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 132,
+    "d2": 132,
+    "d3": 50,
+    "volumeL": 0.87,
+    "fan1Mm": 70,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 200,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 270
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 290
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 370
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/Computers-Windows-Display-Desktop-Bluetooth/dp/B0BQHBWPYX/ref=sr_1_8?crid=3OKX6A2OFSQJU&dib=eyJ2IjoiMSJ9.KUhaR4uyHw5Nfs3KebwSopNPK3YD3WfY3SJ0n_k7oRTc4--xOAlP-G1Mk3LAI7W8cyrUJJ1brpNOXn7amIevUyKLSjWsqCAyQSpNLnzul70-yLD5mOAunewSskbuBMtx97RSeYxZL3Z6C5g_jJpvtSDJIeP2YzUR2MNdlXErTZ9HgSgow-9j8STdw_TTf-RLIUSqO8gAF_nRyaY4qFn0SLn_Pv2cg35BQw4Wcgl-C2Y.ETVt8T7g_lFvUrq-Fx24P8jtl7Sr7I4KssjnGLQnt5w&dib_tag=se&keywords=mini%2Bpc&qid=1728441024&sprefix=mini%2Bp%2Caps%2C99&sr=8-8&th=1"
+  },
+  "releaseDate": null,
+  "notes": "Oct 8 2024: $255 to $200. June 12 2024: $250 to $200. Oct 16: My mistake, I misunderstood a users testing. USB C PD in is not supported. USB C Alt mode disables front usb c video output",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 49
+  }
+}

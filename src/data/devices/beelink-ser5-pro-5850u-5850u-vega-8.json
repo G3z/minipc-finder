@@ -1,0 +1,168 @@
+{
+  "id": "beelink-ser5-pro-5850u-5850u-vega-8",
+  "model": "SER5 Pro 5850U",
+  "brand": "Beelink",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 123.2,
+    "brand": 5.25,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 6,
+    "volume": 16.7,
+    "ram": 9.7,
+    "drive": 10,
+    "port": 0,
+    "lan": 1,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "5850U",
+    "class": "r7",
+    "gen": "Zen 3",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 15
+  },
+  "gpu": {
+    "name": "Vega 8",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 3200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 1,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 1
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 126,
+    "d2": 113,
+    "d3": 42,
+    "volumeL": 0.6,
+    "fan1Mm": 80,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 200,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 270
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 400
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 430
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/Beelink-Computer-Graphics-Support-Three-Screen/dp/B0CF1Y4Z8T/ref=sr_1_9?crid=169R46QDS70NZ&dib=eyJ2IjoiMSJ9.UtWGzkg9qLdrfqs8WmAXrTThSXt-L7qIVsHHtp200dpJLBnt9KwovBnXMzMCZDBaTHjgpG1aovcw7Oq7tSu4wA7PxPY4y3MeZDrXHZuiIOtJo03irLjjmf9gzawPSOoGBIO_O0hNJeSyez9sPeYwDa5VmF2E-RKFBRcMf-pZn83JWlWikzMnvVhhh-YgSdeo7zcqOvpu0l8xmgewZpcyZ6aZQeev33kFUPIDa8DKvnyEax48ttaD76zbyaCbQvhgtPfHCV7gWLD_FVU1uce5l-dDWF8ecJRvBWjyUBEqE5h5fLf_gEOpB5CNY4V-5_GeUDc86RiSkIntwB08h52BK8SgjCw1H9LHgs-DLGUf29dKOfCBuwEHoRzWdv68bxfOFPZaikcSKwL054YPLkYKZpcBMvKB_R8VipxZeHwkcu-QfqhR-fGruugI83ZDktNR.lgT0Iy-Zz2BIpGYd7Qc5MsxsqJAFxqgl-tUNOO5UauU&dib_tag=se&keywords=mini+pc&qid=1735576270&sprefix=mini+p%2Caps%2C133&sr=8-9"
+  },
+  "releaseDate": "1-Nov-2024",
+  "notes": "Dec 30 2024: $290 to $200",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 755
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "awow-hi12-12600h-iris-xe-80eu",
+  "model": "HI12",
+  "brand": "AWOW",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 122.3,
+    "brand": 4.5,
+    "socket": 0,
+    "gen": 12,
+    "gpu": 5,
+    "volume": 11.1,
+    "ram": 9.7,
+    "drive": 16,
+    "port": 0,
+    "lan": 3,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "12600H",
+    "class": "i7",
+    "gen": "12th",
+    "socket": "0",
+    "pCores": 4,
+    "threads": 16,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Iris Xe 80EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 3200,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 136,
+    "d2": 123,
+    "d3": 54,
+    "volumeL": 0.9,
+    "fan1Mm": 80,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 230,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 300
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 330
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/AWOW-HI12-i5-12600H-Desktop-Computers/dp/B0D5LYTGN6/ref=sr_1_12_sspa?crid=UTGBTZXK8FV9&dib=eyJ2IjoiMSJ9.NQi4lTF4g3Oov9zjBE9EXB3H3kvWeeLoira5KAn9Eyqds4QOFZXudN_lTWxn-5lxe4Mw4pMrxoBJb1s6AK9KUPhziMN6_Tj84irw7CsOaNOb84AKZvB8DcPuGEpKZtOqoTZqf0hPQyxl8NUjoSH57c0_JPKYJWXw_yt5SnPy43Jzln4Pf020HisxEFm7CwIYUU4FGu_BumlCQo9u9WVwvPtuav1AuZub0hF34HycsXw.G1ecx6SeRHR-7kIRxVLauDRnYE12aAHGbjrFM4GKhuo&dib_tag=se&keywords=12gb%2B500gb%2Bmini%2Bpc&qid=1721488380&sprefix=12gb%2B500gb%2Bmini%2Bpc%2Caps%2C81&sr=8-12-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1"
+  },
+  "releaseDate": "20-Jul-2024",
+  "notes": "Jul 30 2024: $245 to $230. Jul 20 2024: Ships with a pcie gen 3 SSD not gen 4.",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 625
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "acemagic-f2a-155h-155h-arc-8-xe-128eu",
+  "model": "F2A 155H",
+  "brand": "AceMagic",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 156.2,
+    "brand": 6,
+    "socket": 0,
+    "gen": 14,
+    "gpu": 12,
+    "volume": 8.9,
+    "ram": 10.3,
+    "drive": 18,
+    "port": 6,
+    "lan": 3,
+    "seller": 6
+  },
+  "cpu": {
+    "name": "155H",
+    "class": "U7",
+    "gen": "1st",
+    "socket": "0",
+    "pCores": 6,
+    "threads": 22,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Arc 8 Xe (128EU)",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 4800,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 2,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 3
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 147,
+    "d2": 147,
+    "d3": 52,
+    "volumeL": 1.12,
+    "fan1Mm": 90,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 450,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 600
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "AceMagic",
+    "url": "https://acemagic.com/products/acemagic-f2a-intel-core-ultra-5-7-125h-155h-ai-mini-pc?variant=47924989493554"
+  },
+  "releaseDate": "14-Apr-2024",
+  "notes": "Ships with 4800MT/s RAM instead of 5600MT/s. Nov 7 2024: $550 to $450. Jul 20 2024: $750 to $550. Jul 18 2024: $700 to $750. June 13 2024: $600 to $700. April 14 2024: $960 to $600",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2
+  }
+}

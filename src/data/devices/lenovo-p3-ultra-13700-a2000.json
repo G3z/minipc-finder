@@ -1,0 +1,168 @@
+{
+  "id": "lenovo-p3-ultra-13700-a2000",
+  "model": "P3 Ultra",
+  "brand": "Lenovo",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 186.3,
+    "brand": 5,
+    "socket": 3,
+    "gen": 13,
+    "gpu": 26,
+    "volume": 2.6,
+    "ram": 18.7,
+    "drive": 21,
+    "port": 10,
+    "lan": 4,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "13700",
+    "class": "i7",
+    "gen": "13th",
+    "socket": "LGA1700",
+    "pCores": 8,
+    "threads": 24,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "A2000",
+    "discrete": true,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 4,
+    "maxGb": 128,
+    "maxSpeedMts": 4800,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 3,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": null
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 1
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 223,
+    "d2": 202,
+    "d3": 86,
+    "volumeL": 3.87,
+    "fan1Mm": 90,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 1635,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/Lenovo-ThinkStation-Workstation-i7-13700-Windows/dp/B0CH7DH9T6/ref=sr_1_3?crid=1YOCR6J1KX5S9&dib=eyJ2IjoiMSJ9.NOX4VVxcQT2FUtkEwC3d3zi14fjemDDffYj4T8ANBi7GrLyeiZMWbmB0cQW2ZAu8AS6UH1rQbM3D6ChNp-iiaIap8qljpnOJAC0lWEfA3YQbReubJWhbdLTc30Rfs301hqxZu5PYgsvD-1FWoPQSOmTsx4knvmk_INIo5oVTF5LT4O-PQRrzaatllxIn9GTNlN-5djazpRqS4HDEs2XXCUrzH_V3KOgtRkZ5dAvPEm8.tbXxDwm2l0JScn85TFvs8DN8w8kUIr-f_ESlRLWAi6I&dib_tag=se&keywords=lenovo+p3+ultra+a5500&qid=1717630671&sprefix=lenovo+p3+ultra+a5500%2Caps%2C187&sr=8-3"
+  },
+  "releaseDate": null,
+  "notes": null,
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2303
+  }
+}

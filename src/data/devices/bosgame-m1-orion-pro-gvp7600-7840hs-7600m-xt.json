@@ -1,0 +1,168 @@
+{
+  "id": "bosgame-m1-orion-pro-gvp7600-7840hs-7600m-xt",
+  "model": "M1 / Orion Pro GVP7600",
+  "brand": "Bosgame",
+  "clonedFrom": "HERK",
+  "scores": {
+    "overall": 190.6,
+    "brand": 4,
+    "socket": 0,
+    "gen": 14,
+    "gpu": 24,
+    "volume": null,
+    "ram": 10.6,
+    "drive": 26,
+    "port": 10,
+    "lan": 7,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "7840HS",
+    "class": "r7",
+    "gen": "Zen 4",
+    "socket": "0",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": 45
+  },
+  "gpu": {
+    "name": "7600M XT",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 5600,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 4,
+    "maxNvme": 3,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 7
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 2,
+      "g1": 1
+    },
+    "maxEth": 3,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": null,
+    "d2": null,
+    "d3": null,
+    "volumeL": null,
+    "fan1Mm": 80,
+    "fan2Mm": 40
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 930,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 1080
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://a.co/d/j0OaaE9"
+  },
+  "releaseDate": "3-Nov-2024",
+  "notes": "Oct 11 2024: $280 to $330. Oct 3 2024: $350 to $280. Jun 28 2024: $390 to $297. May 8 2024: $490 to $390. April 27 2024: $390 to $490. dual 26mm speakers inside",
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 834
+  }
+}

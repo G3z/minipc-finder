@@ -1,0 +1,168 @@
+{
+  "id": "asrock-deskmeet-x600-9700x-4060ti-9700x-4060-ti",
+  "model": "DeskMeet X600 9700X 4060Ti",
+  "brand": "Asrock",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 204.6,
+    "brand": 2.2,
+    "socket": 3,
+    "gen": 14.7,
+    "gpu": 48,
+    "volume": -35.2,
+    "ram": 19.7,
+    "drive": 26,
+    "port": 3,
+    "lan": 3,
+    "seller": 6.5
+  },
+  "cpu": {
+    "name": "9700X",
+    "class": "r7",
+    "gen": "Zen 5%",
+    "socket": "AM5",
+    "pCores": 8,
+    "threads": 16,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "4060 Ti",
+    "discrete": true,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 4,
+    "maxGb": 128,
+    "maxSpeedMts": 7200,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 4,
+    "maxNvme": 2,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 7
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 219,
+    "d2": 218,
+    "d3": 168,
+    "volumeL": 8.02,
+    "fan1Mm": 120,
+    "fan2Mm": null
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 1030,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 1030
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Newegg",
+    "url": "https://www.newegg.com/asrock-deskmeet-x600w-deskmeet-x600-series/p/N82E16856158094"
+  },
+  "releaseDate": null,
+  "notes": null,
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 311
+  }
+}

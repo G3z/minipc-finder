@@ -1,0 +1,33 @@
+{
+  "name": "minipc-finder",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "data": "tsx etl/build-data.ts",
+    "spike": "node etl/spike.mjs",
+    "typecheck": "astro check",
+    "lint": "eslint src etl --max-warnings=0",
+    "test": "vitest run",
+    "check": "npm run typecheck && npm run lint && npm run test"
+  },
+  "dependencies": {
+    "@astrojs/preact": "^4.1.0",
+    "@preact/signals": "^2.3.1",
+    "astro": "^5.13.5",
+    "minisearch": "^7.1.2",
+    "preact": "^10.26.9",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "@astrojs/check": "^0.9.4",
+    "eslint": "^9.28.0",
+    "typescript-eslint": "^8.34.0",
+    "typescript": "^5.8.3",
+    "tsx": "^4.19.4",
+    "vitest": "^3.2.1"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "intel-extreme-nuc13rngi9-13900k-a750",
+  "model": "Extreme NUC13RNGi9",
+  "brand": "Intel",
+  "clonedFrom": null,
+  "scores": {
+    "overall": null,
+    "brand": 6,
+    "socket": 3,
+    "gen": 13,
+    "gpu": 31,
+    "volume": -93.2,
+    "ram": 11,
+    "drive": 33,
+    "port": 13,
+    "lan": 8,
+    "seller": 6.5
+  },
+  "cpu": {
+    "name": "13900K",
+    "class": "i9",
+    "gen": "13th",
+    "socket": "LGA1700",
+    "pCores": 8,
+    "threads": 32,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "A750",
+    "discrete": true,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 2,
+    "maxGb": 64,
+    "maxSpeedMts": 6400,
+    "ecc": null
+  },
+  "storage": {
+    "maxDrives": 5,
+    "maxNvme": 3,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 2,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 7
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 1,
+      "g5": 0,
+      "g2_5": 1,
+      "g1": 0
+    },
+    "maxEth": 2,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 337,
+    "d2": 318,
+    "d3": 129,
+    "volumeL": 13.82,
+    "fan1Mm": 120,
+    "fan2Mm": 90
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 1870,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 1870
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Newegg",
+    "url": null
+  },
+  "releaseDate": null,
+  "notes": null,
+  "discontinued": true,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 2089
+  }
+}

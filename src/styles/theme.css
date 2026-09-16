@@ -1,0 +1,3 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&family=Archivo:wght@400;600;700&display=swap');
+@theme { --ink: #16191d; --alu-050: #f1f2f0; --alu-200: #dcdedb; --alu-600: #6b7078; --signal: #0e7c7b; --data-cold: #2e5fa3; --data-hot: #c4610c; }
+* { box-sizing: border-box; } body { margin: 0; background: var(--alu-050); color: var(--ink); font-family: Archivo, sans-serif; } main { max-width: 1200px; margin: auto; padding: 2rem; } h1, h2 { font-family: 'Archivo Narrow', sans-serif; } a { color: var(--signal); } input, select, button { font: inherit; padding: .55rem; border: 1px solid var(--alu-200); background: white; } .muted { color: var(--alu-600); }

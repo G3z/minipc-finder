@@ -1,0 +1,168 @@
+{
+  "id": "bmax-maxmini-b3-2024-n5095-iris-xe-16eu",
+  "model": "MaxMini B3 (2024)",
+  "brand": "Bmax",
+  "clonedFrom": null,
+  "scores": {
+    "overall": 81,
+    "brand": 1,
+    "socket": 0,
+    "gen": 11,
+    "gpu": 1.1,
+    "volume": 21.6,
+    "ram": 1.7,
+    "drive": 4,
+    "port": 0,
+    "lan": 1,
+    "seller": 7
+  },
+  "cpu": {
+    "name": "N5095",
+    "class": "Celeron",
+    "gen": "11th",
+    "socket": "0",
+    "pCores": 0,
+    "threads": 4,
+    "tdpW": null
+  },
+  "gpu": {
+    "name": "Iris Xe 16EU",
+    "discrete": false,
+    "integrated": true
+  },
+  "memory": {
+    "slots": 0,
+    "maxGb": 8,
+    "maxSpeedMts": 2133,
+    "ecc": false
+  },
+  "storage": {
+    "maxDrives": 1,
+    "maxNvme": 0,
+    "nvmeGen5": null,
+    "nvmeGen4": null,
+    "nvmeGen3": null,
+    "m2Sata": null,
+    "sdCard": null,
+    "sata25": null,
+    "sata35": null
+  },
+  "ports": {
+    "pcieX16": null,
+    "pcieX8": null,
+    "pcieX4": null,
+    "pcieX1": null,
+    "oculink": 0,
+    "tb5": 0,
+    "usb4": 0,
+    "pdInMinW": null,
+    "pdVideoMinW": null,
+    "pdVideoDataMinW": null,
+    "hdmi21": null,
+    "displays": 2
+  },
+  "network": {
+    "ethModel": null,
+    "ports": {
+      "g10": 0,
+      "g5": 0,
+      "g2_5": 0,
+      "g1": 1
+    },
+    "maxEth": 1,
+    "wifi6e": null,
+    "wifi6": null,
+    "wirelessSoc": null
+  },
+  "power": {
+    "idleW": null,
+    "loadW": null,
+    "peakW": null,
+    "tdpW": null,
+    "psuW": null,
+    "batteryWh": null,
+    "psuType": null,
+    "vPro": null
+  },
+  "physical": {
+    "d1": 125,
+    "d2": 112,
+    "d3": 33,
+    "volumeL": 0.46,
+    "fan1Mm": 55,
+    "fan2Mm": 0
+  },
+  "support": {
+    "warrantyYrs": null,
+    "durabilityYrs": null
+  },
+  "pricing": {
+    "barebone": 80,
+    "variants": [
+      {
+        "config": "Barebone or Very little RAM / eMMC",
+        "usd": 0
+      },
+      {
+        "config": "8GB/128GB",
+        "usd": 0
+      },
+      {
+        "config": "8GB/256GB",
+        "usd": 120
+      },
+      {
+        "config": "12GB/256GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "16GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "24GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/512GB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "32GB/2TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/1TB",
+        "usd": 0
+      },
+      {
+        "config": "64GB/2TB",
+        "usd": 0
+      }
+    ],
+    "history": []
+  },
+  "seller": {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/Bmax-B3-Processor-Desktop-Computer/dp/B0CT84R6R2/ref=sr_1_4?crid=NKR0OAISVL21&dib=eyJ2IjoiMSJ9.4Bd9UiY5Fq5A_sRQrl33xYqfDJIMN_rtyyTRUbfAOIHDhoMCTcyDxSZV_anaLdlIu-mH7XHkpuey3KmoymgjNF9vAdS5MChvCPd9UR1hHetPo0KeLm18L0cywuBFLFESX2gGvm-bHEHJgqbMoUhASJAq24YbN7BOABbNHx5dqtEhd8Vrvm73PRFNepYAYPp6fZi0xx4yIGdO4j45RcEL8RMTHv61IbszDQ9l9JtH9FE.drzCHbPxYgX7rFvYshqkmjV66U6yrqCSrGR6eyaCM2s&dib_tag=se&keywords=bmax%2Bmini%2Bpc%2Bb10%2Bpro&qid=1735574663&sprefix=bmax%2Bmini%2Bpc%2Bb10%2Bpro%2Caps%2C118&sr=8-4&th=1"
+  },
+  "releaseDate": null,
+  "notes": null,
+  "discontinued": false,
+  "source": {
+    "sheet": "2024 General Mini PC Guide USA",
+    "row": 815
+  }
+}
