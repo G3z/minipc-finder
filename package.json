@@ -14,20 +14,20 @@
     "check": "npm run typecheck && npm run lint && npm run test"
   },
   "dependencies": {
-    "@astrojs/preact": "^4.1.0",
-    "@preact/signals": "^2.3.1",
-    "astro": "^5.13.5",
-    "minisearch": "^7.1.2",
-    "preact": "^10.26.9",
-    "zod": "^3.24.4"
+    "@astrojs/preact": "^6.0.5",
+    "@preact/signals": "^2.11.2",
+    "astro": "^7.3.2",
+    "minisearch": "^7.2.0",
+    "preact": "^10.29.8",
+    "zod": "^4.6.5"
   },
   "devDependencies": {
-    "@types/node": "^22.15.3",
-    "@astrojs/check": "^0.9.4",
-    "eslint": "^9.28.0",
-    "typescript-eslint": "^8.34.0",
-    "typescript": "^5.8.3",
-    "tsx": "^4.19.4",
-    "vitest": "^3.2.1"
+    "@types/node": "^22.20.3",
+    "@astrojs/check": "^0.9.10",
+    "eslint": "^10.10.0",
+    "typescript-eslint": "^8.70.0",
+    "typescript": "^7.0.2",
+    "tsx": "^4.23.13",
+    "vitest": "^5.0.1"
   }
 }
